@@ -9,6 +9,8 @@ nb.useLatex
 nbText: """## State of Scientific Computing in Nim 2022
 #### A personal survey with nimib examples
 FOSDEM 2022 - Nim Devroom
+
+[github.com/pietroppeter/soscin22](https://github.com/pietroppeter/soscin22)
 """
 
 when false: # keeping them here as example
