@@ -2,6 +2,8 @@
 
 State Of Scientific Computing In Nim 2022 - repo for my upcoming Fosdem presentation: https://fosdem.org/2022/schedule/event/nim_stateofscinim/
 
+⚠️ work in progress ⚠️
+
 ## overview
 
 30'+5'Q&A

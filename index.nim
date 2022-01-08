@@ -11,6 +11,8 @@ nbText: """## State of Scientific Computing in Nim 2022
 FOSDEM 2022 - Nim Devroom
 
 [github.com/pietroppeter/soscin22](https://github.com/pietroppeter/soscin22)
+
+⚠️ work in progress ⚠️
 """
 
 when false: # keeping them here as example
