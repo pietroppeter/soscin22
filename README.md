@@ -13,7 +13,7 @@ goals of the talk:
 
 not really a talk focused on nimib, but plan to use nimib to communicate most of the stuff. in particular I plan to use nimislides to create the presentation.
 
-as an additional goal it would be nice to have something that will be able to autom
+as an additional goal it would be nice to have something that will be able to automate stuff (for discovery of new libs and gathering info about them)
 
 the minimal goal to reach is just to be a startightforward presentation that targets someone who is new to nim and interested in scientific computing and wants to know where to start and what can they expect to accomplish (and maybe where to help). this minimal goal I guess is doable even if I do not complete any of the tasks below.
 
