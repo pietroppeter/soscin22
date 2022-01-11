@@ -47,14 +47,14 @@ stuff I plan to potentially do for the presentation (far from expecting to do th
 - _(scinim lib is any lib related in someway to scientific computing with nim however small and even possibly obsolete - will use the most inclusive defintion for what a scinim lib is)_
 - [ ] create a nimib notebook that gather stats for all scinim libs (e.g. last commit, last release, contributors, number of commits in 2021, ...) 
 - [ ] nimib examples for aymanalbaz's libraries
+- [ ] experiment interactivity with nimscripter in a scientific computing context
+- [ ] PR for ggplotnim horizontal lines (it would be nice to have a beginner friendly notebook that explains all steps - including all you have to do with git/github)
+- [ ] using plotly in nimib notebook
+- [ ] try out jupyternim
 - [ ] nimib examples for GSL wrapper
 - [ ] implement rnad (crypto lock puzzles as featured in HN) with bigints (and bignum?)
-- [ ] using plotly in nimib notebook
 - [ ] using gnuplot in nimib notebook
-- [ ] PR for ggplotnim horizontal lines (it would be nice to have a beginner friendly notebook that explains all steps - including all you have to do with git/github)
-- [ ] try out jupyternim
 - [ ] a jupyternim backend for nimib
 - [ ] blogpost for a poc for deneb (vegalite for nim)
-- [ ] experiment interactivity with nimscripter
 - [ ] nimib examples of some libs by aferretti?
 - [ ] nimib notebook that takes test from a repo and runs them in a nimib notebook (including all outputs). in this way practically most repos would gain some new documentation (easier to read). not sure how feasible/useful this could be
